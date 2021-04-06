@@ -2,6 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ishanarya0&theme=gruvbox&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishanarya0&theme=gruvbox&show_icons=true&count_private=true&hide=stars&include_all_commits=true" /></p>
+
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">Visitors :alien:</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{ishanarya0}/count.svg" alt="ishanarya0 :: Visitor's Count" /></p>
