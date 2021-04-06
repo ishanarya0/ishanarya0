@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h1>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishanarya0&show_icons=true&locale=en" /></p>
 
-<h4 align="center">Top langs :bar_chart:</h4>
+<br><br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats" /></p>
 
 <h2 align="center">Visitors :alien:</h2>
