@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h1>
 
+<br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishanarya0&show_icons=true&locale=en" /></p>
 
-<br><br>
+<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats" /></p>
 
