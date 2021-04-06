@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ishanarya0&theme=gruvbox&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
 
-[![Akshay's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=ishanarya0)
 
