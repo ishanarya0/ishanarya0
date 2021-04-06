@@ -4,7 +4,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ishanarya0)
+<h2 align="center">Visitors :alien:</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{ishanarya0}/count.svg" alt="ishanarya0 :: Visitor's Count" /></p>
 
 <!--
 **ishanarya0/ishanarya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
