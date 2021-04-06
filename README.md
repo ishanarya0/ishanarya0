@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishanarya0&theme=gruvbox&show_icons=true&count_private=true&hide=stars&include_all_commits=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishanarya0&show_icons=true&locale=en" /></p>
 
 <h4 align="center">Top langs :bar_chart:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanarya0&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats" /></p>
